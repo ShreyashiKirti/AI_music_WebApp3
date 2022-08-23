@@ -1,0 +1,46 @@
+body{
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'DynaPuff', cursive;
+color: aliceblue;
+}
+
+.heading{
+background-color: rgb(37, 54, 52);
+letter-spacing: 0.9px;
+padding: 5px;
+font-size: 18px;
+
+}
+
+canvas{
+border-radius: 30px;
+margin-top: 150px;
+}
+
+button{
+color: black;
+width: 200px;
+}
+
+.img1{
+float: left;
+height: 150px;
+width: 170px;
+border-radius: 30px;
+}
+
+.img2{
+    float: right;
+    height: 150px;
+    width: 170px;
+    border-radius: 30px;
+    }
+
+#song_name{
+    background-color: rgb(84, 134, 128);
+    letter-spacing: 0.9px;
+    width: 30%;
+    border-radius: 30px;
+}
